@@ -7,7 +7,7 @@ Hörmətli "{towhom}" Rəhbərliyi,
 
 Mən, {name}, Ağ şəhər Toca Residence, 40 ünvanında yaşayan bir sakinəm. Son dövrlərdə binamızda qaz təchizatı ilə bağlı ciddi problemlər yaşanır. Qazın tez-tez kəsilməsi və qeyri-sabit verilməsi sakinlər üçün ciddi çətinliklər yaradır. Bu problem təkcə məişət şəraitimizi çətinləşdirmir, eyni zamanda təhlükəsizlik baxımından da ciddi narahatlıq doğurur. Kombinin sönməsi bir yana, əsas məsələ odur ki, qaz təchizatındakı qeyri-sabitlik potensial təhlükə yaradır. Qaz sızması və ya digər fövqəladə halların baş verməsi halında bunun məsuliyyətini kim daşıyacaq?
 
-Bu məsələ ilə bağlı sizə və qaz idarəsinə dəfələrlə müraciət etmişik. Mütəxəssislər gəlib müəyyən baxış keçiriblər, lakin problem tam həll olunmamış qalır.
+Bu məsələ ilə bağlı aidiyyəti qurumlara dəfələrlə müraciət etmişik. Mütəxəssislər gəlib müəyyən baxış keçiriblər, lakin problem tam həll olunmamış qalır.
 
 Sizdən xahiş edirik ki, bu məsələyə diqqət yetirəsiniz və problemin köklü həll olunması üçün aidiyyəti qurumlarla əməkdaşlıq edərək lazımi tədbirlər görəsiniz. Məsələnin həlli ilə bağlı hər hansı bir addım atılarsa və ya əlavə məlumat tələb olunarsa, bizimlə əlaqə saxlamağınızı xahiş edirik.
 
